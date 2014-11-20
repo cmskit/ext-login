@@ -1,0 +1,19 @@
+{
+    "name": "cmskit/extension-login",
+    "type": "library",
+    "version": "0.5.0",
+    "description": "Enhanced login page for cms-kit backend",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Christoph Taubmann",
+            "email": "info@cms-kit.com"
+        }
+    ],
+    "homepage": "http://cms-kit.com",
+    "require": {
+        "php": ">=5.3.3",
+        "cmskit/package-installer": "1.0.*@dev",
+        "cmskit/jquery-ui": "dev-master"
+    }
+}
